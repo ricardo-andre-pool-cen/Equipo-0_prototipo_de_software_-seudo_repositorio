@@ -4,6 +4,8 @@ Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
 Ricardo Andre Pool Cen | 1
 Jaime Armando Osorio Muñoz | 1
+Katherine Aolani Ordoñez Pacheco | 1
+Perla Noemi Canche Uicab | 1
 
 ## NUEVOS ARTEFACTOS DE SCRUM
 
@@ -108,3 +110,28 @@ Este artefacto se usa al final de cada Periodo para diagnosticar la situacion de
 *El documento es creado dentro del cuerpo principal (Declaracion de problemas del Periodo_(Numero)).*
 
 ### HISTORIAS DE USUARIO
+
+---
+
+### DEFINICION DE TERMINADO (DoD)
+
+> *Describe los criterios de calidad que deben cumplirse para que el Incremento se considere "finalizado" y en una condición que permita una inspección efectiva.*
+
+En otras palabras, esto es es un conjunto de criterios que un equipo de trabajo utiliza para determinar cuándo una tarea o un incremento de producto se considera completo. Esta definición ayuda a asegurar que el trabajo cumple con los estándares de calidad y está listo para ser entregado o implementado.
+
+Algunos criterios para que se considere como hecho son:
+* Debe tener claridad y comprension compartida de lo que se hizo
+* Todos en el equipo estan de acuerdo
+* La documentacion esta actualizada y disponible
+* Cumple los criterios de aceptación.
+* No hay problemas pendientes
+
+Algunas recomendaciones:
+* Agrupar elementos duplicados o similares.
+* Incluye la realizacion de las pruebas.
+* Tener una buena comunicacion esto se hace aclarando dudas y expresando tus ideas.
+* Mantenla sencilla y fácil de recordar para que todos puedan aplicarla sin dificultad.
+
+Referencias:
+https://youtu.be/2MD5onpE6jg?si=Xm2WjpfQqbIvvsK2
+https://youtu.be/3L9Oa6MACYI?si=J1rDqYwicc1UJVo9
