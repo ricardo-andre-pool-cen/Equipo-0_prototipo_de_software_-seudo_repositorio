@@ -41,7 +41,7 @@ Referencias:
 
 ## Definition of Done (DOD)
 > Describe los criterios de calidad que deben cumplirse para que el Incremento se considere "finalizado" y en una condición que permita una inspección efectiva.
-> En otras palabras, esto es es un conjunto de criterios que un equipo de trabajo utiliza para determinar cuándo una tarea o un incremento de producto se considera completo. Esta definición ayuda a asegurar que el trabajo cumple con los estándares de calidad y está listo para ser entregado o implementado.
+En otras palabras, esto es es un conjunto de criterios que un equipo de trabajo utiliza para determinar cuándo una tarea o un incremento de producto se considera completo. Esta definición ayuda a asegurar que el trabajo cumple con los estándares de calidad y está listo para ser entregado o implementado.
 
 Algunos criterios para que se considere como hecho son:
 * Debe tener claridad y comprension compartida de lo que se hizo
