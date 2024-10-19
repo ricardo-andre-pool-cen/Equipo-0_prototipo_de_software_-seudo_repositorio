@@ -27,15 +27,15 @@ La redacción de una declaracion del problema no es una plantilla, es precisamen
 
 Este consta de varios puntos
  - El gol de sprint: Describe el objetivo del sprint
- - El conjunto de elementos del backlog 
+ - El conjunto de elementos del backlog seleccioandos para el sprint
  - Un plan viable: Como el equipo desarrollara el trabajo y lograra el objetivo del esprint.
 
 Especifiquemos un poco más estos puntos 
 
  - El gol sprint: Esta destinado para el enfoque scrum y un objetivo para medir el proceso
  - El objetivo: El porque del sprint aportara valores a las partes interesadas, como al usuario y al cliente.
-Planificacion:
- - Es creado por todo el equipo del scrum, todos del equipo trabajaran para en los elementos del objetivo para proporciona una fuerza en el equipo.
+- Planificacion:
+ - Es creado por todo el equipo del scrum, todos del equipo trabajaran  en los elementos del objetivo para proporciona un mejor trabajo en equipo.
  - Un conjunto de elementos del backlog:  Tienen como objetivo ayudar al cumplir el objetivo del sprint.
  - Scrum Diario: Los desarrolladores evalúan si están avanzando hacia el objetivo del sprint o adaptan sus planes, pueden ajustan el alcance del trabajo, pero no deben de realizar cambios en el sprint.
 
@@ -51,7 +51,7 @@ Al final los integrantes del equipo discuten sobre el progreso del equipo.
  - El sprint debe de contar con uno o dos elementos que quiera mejorar.
  - Este debe de incluir un plan viable de como se realizara el trabajo
  -	Para llevar acabo este plan de debe de dividir los elementos en multiples unidades de trabajo 
- -	Los desarrolladores deben de hacer este trabajo junto para una mejor compresion entre los integrantes del equipo.
+ -	Los desarrolladores deben de hacer este trabajo juntos para una mejor compresion entre los integrantes del equipo.
 
 ### Antipatrones de acumulación del sprint 
 
@@ -59,13 +59,13 @@ Al final los integrantes del equipo discuten sobre el progreso del equipo.
 
 -	No debe emitirse el Gol del sprint
 -	El sprint Gol solo es una descripción de los elementos del balcklog
--	Los desarrolladores adaptan o cambian la forma en que logran el objetivo, pero el esprint debe de ser el mismo.
+-	Los desarrolladores adaptan o cambian la forma en que logran el objetivo, pero el sprint debe de ser el mismo.
 - El sprint blacklog no se actualiza a medida que avanza el sprint
 -	El sprint blacklog solo se actualiza durante el daily scrum
--	El sprint nuca incluye un elemento de mejora
+-	El sprint nunca incluye un elemento de mejora en otras palabras el equipo identifica algunos cambios para mejorar su efectividad de trabajo estos se incluyen al Sprint Blacklog cuando sea necesario.
 - Este debe ser visible para las partes interesadas, pero no puedan modificarlo
--	El sprint black long solo lo actualiza el scrum master para mayor eficiencia.
-- El sprint black long debe de reflejar el estado actual de todo el trabajo para el sprint,
+-	El sprint blacklog solo lo actualiza el scrum master para mayor eficiencia.
+- El sprint blacklog debe de reflejar el estado actual de todo el trabajo para el sprint,
 
 ### Planificacion del Sprint
 
