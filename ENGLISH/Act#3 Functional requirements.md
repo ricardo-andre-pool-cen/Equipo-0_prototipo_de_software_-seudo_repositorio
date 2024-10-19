@@ -27,36 +27,36 @@ RF_03: Users will be able to modify the basic information of a repository: name,
 - ## User stories.
 
 • RF_01: As a user, I want to create an account with a password to access the program.
-Role: User
-Goal: Create the account
-Motivation: save my data and access the program easily in the future.
+ Role: User
+ Goal: Create the account
+ Motivation: save my data and access the program easily in the future.
 
 • RF_02: As a user, I want an interactive “Onboarding” style guide to understand the program for the first time.
-Role: User
-Goal: interactive guide
-Motivation: understand the program for the first time.
+ Role: User
+ Goal: interactive guide
+ Motivation: understand the program for the first time.
 
 • RF_03: As a user, I want to be able to modify the basic information of the repository to personalize it.
-Role: User
-Goal: modify the basic information of the repository
-Motivation: personalization.
+ Role: User
+ Goal: modify the basic information of the repository
+ Motivation: personalization.
 
 • RF_04: As a user, I want a graph to visualize the changes made to the project.
-Role: User
-Goal: a graph
-Motivation: Visualize the changes made.
+ Role: User
+ Goal: a graph
+ Motivation: Visualize the changes made.
 
 • RF_05 As a user, I want to create and manage branches of the project to work on personal whiteboards.
-Role: User
-Goal: create and manage branches.
-Motivation: work on personal whiteboards.
+ Role: User
+ Goal: create and manage branches.
+ Motivation: work on personal whiteboards.
 
 • RF_06: As a user, I want to be able to create tasks with instructions in the repository to assign them a due date.
-Role: User
-Goal: create tasks and their instructions.
-Motivation: Have a due date.
+ Role: User
+ Goal: create tasks and their instructions.
+ Motivation: Have a due date.
 
 • RF_07: As a leader, I want to manage, grant permissions and responsibilities for the members of a repository.
-Role: Leader
-Goal: manage, grant permissions and responsibilities.
-motivation: for the members.
+ Role: Leader
+ Goal: manage, grant permissions and responsibilities.
+ motivation: for the members.
