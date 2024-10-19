@@ -1,0 +1,12 @@
+Los 5 requisitos solicitados 
+
+RF1 (Linea del tiempo):
+El sistema debe mantener un registro permanente de todos los cambios realizados en el repositorio, permitiendo a los usuarios rastrear y auditar todas las modificaciones realizadas
+RFN2 (pizarrones personales):
+Los usuarios pueden crear y gestionar pizarrones persoles, los cuales podrán ser de carácter privado o público.
+RF3 (Tareas o asignaciones):
+Lo usuarios podrán crear y otorgar tareas dentro del repositorio, con fechas límite a cumplir
+RF4 (Menú público):
+Los usuarios tienen un menú general en el cuál pueden visualizar demás repositorios de carácter público.
+RF5 (Roles):
+El usuario puede crear y gestinar roles para definir responsabilidades y funciones a los demás integrantes en el repositorio, 

@@ -1,0 +1,7 @@
+Aqui se encuentran mis requisitos 
+
+Proteccion de la linea del tiempo_La gráfica que muestra los cambios hechos en el repositorio no podrá ser modificada por los usuarios.
+Control de acceso a los pizarrones personales_ El sistema pedira al usuario una contraseña para que solo el tenga acceso a ella
+Restriccion de eliminacion de tareas_Las tareas no podrán ser eliminadas sin haber sido previamente marcadas como completadas o canceladas.
+Paginacion de repositorios publicos_ El usuario podrá visualizar un límite establecido de repositorios públicos por página.
+Autorizacion de cambios por roles_ Los cambios en el repositorio estarán restringidos a los permisos asignados a cada rol de los integrantes.
