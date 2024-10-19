@@ -4,6 +4,7 @@ Participantes en esta actividad | Puntos que acreditan
 ------------------------------- | --------------------
 Ricardo Andre Pool Cen | 1
 Jaime Armando Osorio Muñoz | 1
+Katherine Aloani Ordoñez Pacheco | 1
 
 ## NUEVOS ARTEFACTOS DE SCRUM
 
@@ -39,7 +40,7 @@ Ejemplo:
 Referencias:
 [Sprint Planning. (s. f.). Scrum.org.](https://www.scrum.org/learning-series/sprint-planning/)
 
-## HISTORIAS DE USUARIO 
+### HISTORIAS DE USUARIO 
 >*Es una breve y simple descripción de un requisito o necesidad desde la perspectiva de la sugerencia del usuario.*
 
 Se utiliza en las metodologías agiles para capturar lo que el usuario quiere y para que, todo de forma consisa y clara.
@@ -68,8 +69,6 @@ Existen ciertas técnicas para hacer historias de usuario de manera corecta, est
  
  "Como María quiero poder establecer un rango de precios para no sobrepasar mi presupuesto".
 
-
- Referencias: - YouTube. (n.d.). Youtu.Be. Retrieved October 18, 2024, from https://youtu.be/lU9oK5Ln7Rg 
- : Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Retrieved October 18, 2024, from https://www.atlassian.com/es/agile/project-management/user-stories
-
-
+ Referencias: 
+ [YouTube. (n.d.). Youtu.Be. Retrieved October 18, 2024](https://youtu.be/lU9oK5Ln7Rg)
+ [Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Retrieved October 18, 2024](https://www.atlassian.com/es/agile/project-management/user-stories)
