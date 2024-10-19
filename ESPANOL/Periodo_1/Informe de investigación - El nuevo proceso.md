@@ -38,3 +38,37 @@ Ejemplo:
 
 Referencias:
 [Sprint Planning. (s. f.). Scrum.org.](https://www.scrum.org/learning-series/sprint-planning/)
+
+
+## HISTORIAS DE USUARIO 
+>*Es una breve y simple descripción de un requisito o necesidad desde la perspectiva de la sugerencia del usuario.*
+
+Se utiliza en las metodologías agiles para capturar lo que el usuario quiere y para que, todo de forma consisa y clara.
+
+**Plantilla**
+
+Usualmente se utiliza la siguiente plantilla:
+ - Como [usuario] 
+ - quiero [objetivo]
+ - para [motivo]
+
+### Técnicas para crear historias de usuario
+Existen ciertas técnicas para hacer historias de usuario de manera corecta, estos nos ayudan para saber de modo mas especifico lo que el usuario requiere, el más simple de recordar sería: SMART
+
+- **S:** Specific, donde se define claramente al usuario
+- **M:** Measurable, lo que indica que el resultado es visible para el usuario
+- **A:** Archievable, lo que indica que la funcionalidad es realista y puede ser implementada
+- **R:** Relevant, que es una necesidad común para los que se le dirige la historia de usuario
+- **T:** Timeboxed, la historia tiene un alcance que puede ser completada en un solo sprint o iteracón
+
+ **Ejemplos de historia de usuario**
+ 
+ "Como gestor, quiero poder administrar todos los trabajos que mi equipo hace para ayudarlos y corregirlos en caso de que haya errores".
+ 
+ "Como compradora quiero encontrar mis artículos en secciones separadas para ser más rápida".
+ 
+ "Como María quiero poder establecer un rango de precios para no sobrepasar mi presupuesto".
+
+
+ Referencias: - YouTube. (n.d.). Youtu.Be. Retrieved October 18, 2024, from https://youtu.be/lU9oK5Ln7Rg 
+ : Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Retrieved October 18, 2024, from https://www.atlassian.com/es/agile/project-management/user-stories
