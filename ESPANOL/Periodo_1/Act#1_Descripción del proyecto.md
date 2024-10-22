@@ -2,7 +2,7 @@
 
 Participantes en esta actividad | Puntos que acredita
 ------------------------------- | -------------------
-Ricardo Andre Pool Cen | 0
+Ricardo Andre Pool Cen | 1
 
 ## DESCRIPCION DEl PROCESO, ASI ES COMO TRABAJA EL EQUIPO#0
 
