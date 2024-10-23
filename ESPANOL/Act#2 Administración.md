@@ -7,4 +7,4 @@ Participantes en esta actividad | Puntos que acredita
 
 TEST | TEST
 ---- | ----
-- [ ] CRITERIO |- [ ] CRITERIO
+- [x] CRITERIO |- [ ] CRITERIO
