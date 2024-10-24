@@ -12,6 +12,8 @@
 - *Perla Noemi Canche Uicab*
 - *Jaime Armando Osorio Muñoz*
 
+[Product: New process video](https://drive.google.com/file/d/1t291XsDDlfBaGnTudStA3_zivn4diAmd/view?usp=sharing)
+
 ## CONTENIDO EN ESPAÑOL
 
 ### Líder: *Ricardo Andre Pool Cen*
