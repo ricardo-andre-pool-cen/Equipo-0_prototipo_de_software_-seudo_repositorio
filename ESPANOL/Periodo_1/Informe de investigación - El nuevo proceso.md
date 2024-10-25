@@ -129,6 +129,7 @@ Referencias:
 [YouTube. (n.d.). Youtu.Be. Retrieved October 18, 2024](https://youtu.be/lU9oK5Ln7Rg)
 [Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Retrieved October 18, 2024](https://www.atlassian.com/es/agile/project-management/user-stories)
 
+
 ### DEFINICION DE TERMINADO (DoD)
 
 > *Describe los criterios de calidad que deben cumplirse para que el Incremento se considere "finalizado" y en una condición que permita una inspección efectiva.*
