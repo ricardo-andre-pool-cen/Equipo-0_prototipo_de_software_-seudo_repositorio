@@ -24,39 +24,39 @@ RF_03: Users will be able to modify the basic information of a repository: name,
 - RF_06: Users will be able to create tasks in a repository with activation dates and delivery instructions.
 - RF_07: The leader will be able to manage and grant responsibilities and permissions to the members of a repository.
   
-- ## User stories.
+# USER STORIES
 
-• RF_01: As a user, I want to create an account with a password to access the program.
+- **RF_01: As a User, I want to create an account with a password to save a session, keep my privacy, and protect my work.
 - Role: User
-- Goal: Create the account
-- Motivation: save my data and access the program easily in the future.
+- Objective: Create an individual account.
+- Motivation: easily log into the program, keep my privacy, and protect my work.
 
-• RF_02: As a user, I want an interactive “Onboarding” style guide to understand the program for the first time.
-- Role: User
-- Goal: interactive guide
-- Motivation: understand the program for the first time.
+- **RF_02: As a student who has to hand in an assignment early, I want an interactive guide or tutorial in the program so that it doesn't take so long to learn all the tools for the first time.
+- Role: Student.
+- Objective: interactive guide.
+- Motivation: make it easier to learn how to use the program fully for the first time.
 
-• RF_03: As a user, I want to be able to modify the basic information of the repository to personalize it.
-- Role: User
-- Goal: modify the basic information of the repository
-- Motivation: personalization.
+- **RF_03: As a team leader in my classroom, I want to be able to modify the name of my repository, description, and members to present the assignment and limit access to editing.
+- Role: Team leader.
+- Objective: modify basic repository information
+- Motivation: present the assignment and limit access to editing.
 
-• RF_04: As a user, I want a graph to visualize the changes made to the project.
-- Role: User
-- Goal: a graph
-- Motivation: Visualize the changes made.
+- **RF_04: As a team administrator, I want some way to see a history of all changes made to the repository to visualize the development of the repository.
+- Role: Team administrator
+- Objective: A history of all changes made to the repository
+- Motivation: To visualize the development of the repository.
 
-• RF_05 As a user, I want to create and manage branches of the project to work on personal whiteboards.
-- Role: User
-- Goal: create and manage branches.
-- Motivation: work on personal whiteboards.
+- ** RF_05* As a researcher for a high school exhibition team, I want a personal workspace or "branch" that is connected to the repository to better store my information and present it to my team as efficiently as possible.
+- Role: Team researcher.
+- Objective: To have a personal workspace connected to the repository.
+- Motivation: To better organize and delimit the information and present it efficiently.
 
-• RF_06: As a user, I want to be able to create tasks with instructions in the repository to assign them a due date.
-- Role: User
-- Goal: create tasks and their instructions.
-- Motivation: Have a due date.
+- *RF_06: As a team administrator, I want to create tasks with instructions, due and closing dates, and those responsible to describe and control the needs of the project.
+- Role: Team administrator.
+- Objective: To create tasks.
+- Motivation: Describe and control the project needs.
 
-• RF_07: As a leader, I want to manage, grant permissions and responsibilities for the members of a repository.
-- Role: Leader
-- Goal: manage, grant permissions and responsibilities.
-- Motivation: for the members.
+- **RF_07*: As a leader, I want to manage and grant permissions and responsibilities to members of my repository to control a hierarchy and organize the work.
+- Role: Leader.
+- Objective: manage and grant permissions and responsibilities to members.
+- Motivation: Create and control a hierarchy to organize the work.
