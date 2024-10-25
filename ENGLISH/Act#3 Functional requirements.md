@@ -46,7 +46,7 @@ RF_03: Users will be able to modify the basic information of a repository: name,
 - Objective: A history of all changes made to the repository
 - Motivation: To visualize the development of the repository.
 
-- **RF_05* As a researcher for a high school exhibition team, I want a personal workspace or "branch" that is connected to the repository to better store my information and present it to my team as efficiently as possible.
+** RF_05* As a researcher for a high school exhibition team, I want a personal workspace or "branch" that is connected to the repository to better store my information and present it to my team as efficiently as possible.
 - Role: Team researcher.
 - Objective: To have a personal workspace connected to the repository.
 - Motivation: To better organize and delimit the information and present it efficiently.
