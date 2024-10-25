@@ -24,9 +24,9 @@ RF_03: Los usuarios podrán modificar la informacion basica de un repositorio: n
 - RF_06: Los usuarios podrán crear tareas en un repositorio con fechas de activacion e instrucciones de entrega.
 - RF_7: El lider podrá gestionar y otorgar responsabilidades y permisos a los integrantes de un repositorio.
 
--#HISTORIAS DE USUARIO 
+# HISTORIAS DE USUARIO 
 
-- *RF_01: Como Usuario quiero crear una cuenta con una contraseña para guardar una sesion, conservar mi privacidad y proteger mi trabajo.
+- ** RF_01. Como Usuario quiero crear una cuenta con una contraseña para guardar una sesion, conservar mi privacidad y proteger mi trabajo.
 - Rol: Usuario
 - Objetivo: Crear una cuenta individual.
 - Motivación: ingresar facilmente al programa, conservar mi privacidad y proteger mi trabajo.
