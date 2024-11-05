@@ -1,4 +1,4 @@
-# INDICE/INDEX
+# INDEX
 
 ## Leader: *Ricardo Andre Pool Cen*
 

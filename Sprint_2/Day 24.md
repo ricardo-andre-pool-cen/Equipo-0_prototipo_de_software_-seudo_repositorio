@@ -2,18 +2,18 @@
 
 **I worked on this:**
 
-- Especificacion de requisitos
+- Requirements specifyment
 
 ---
 **I'm working on this:**
 
-- Validacion de competencias de la asignatura
+- Subject competences validation
 
 ---
 **I'll work on this:**
 
-- Implementacion de la herramienta del diseño
-- "Product Backlog"
+- Design tool implementation
+- Product Backlog
 
 ---
 **I couldn't work this:**

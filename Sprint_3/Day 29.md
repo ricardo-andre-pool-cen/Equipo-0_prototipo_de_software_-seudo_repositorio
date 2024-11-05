@@ -3,19 +3,20 @@
 **I worked on this:**
 
 - Individual contribution metrics
-- Reforms to the format of "Definition of done"
 
 ---
 **I'm working on this:**
 
-- Requirements specifyment
+- Reform to the product users, objective, value proposal.
+- New requirements
+- New user stories
 
 ---
 **I'll work on this:**
 
-- Subject competences validation
+- Problem statements
+- Design
+- Requirements specifiment
 
 ---
 **I couldn't work this:**
-
-- Writting of past dailys

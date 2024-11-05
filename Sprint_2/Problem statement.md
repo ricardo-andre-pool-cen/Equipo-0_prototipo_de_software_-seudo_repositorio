@@ -1,13 +1,15 @@
 # THE END OF SPRINT_2
 
-*El objetivo del equipo para el Periodo_1, con una duracion de 5 dias, era demostrar disciplina y terminar las 9 actividades que se propusieron en ese lapso.*
+*The team's objective for the Sprint_2, with a duration of one week, was only to finish those tasks that were not finished in the past sprint.*
 
-Sin embargo, la comunicacion es pesima entre los integrantes, no estan pendientes de la mensajeria y por lo tanto no siguen instrucciones, Tampoco se han practicado platicas directas como se debe.
+That means, no real contribution was made during this sprint, and even of the light weight of it, the tasks were finished just in time: all the sprint was needed to deliver the late tasks from Sprint_1.
 
-En consecuencia, las actividades fueron iniciadas muy tarde, apenas el jueves, y no se pudo documentar todo en solo dos dias. Asi acabo el Periodo_1:
+As result, no progress was made during this sprint since Sprint_1 was finished during this time, this is how Sprint_2 ended:
 
 -
 
-**El problema es que la mayor parte del equipo aun se encuentra incapacitado en distintas competencias como hacer redacciones cohesivas, aplicar formato markdown, navegar y manejar Github e incluirse en todos los puntos del proceso y la materia, aun se encuentran ajenados al proposito.**
+**The problem is that most of the team is too lazy to be part of the project by themselves, clearly there is a need of a lot of direct communication, which neither has been practiced.**
 
-Si no se soluciona el problema, los Periodos no se finalizaran como se deben. Se sufriran atrasos y los tiempos de trabajo deberan ser aumentados sin descanzo, lo cual tambien resulta en la entrega de artefactos defectuosos. *La solucion del problema es indispensable para poder cumplir nuestras propias instrucciones como se debe, llevar el proceso ordenado y calmado, entregar buenos artefactos a tiempo y cumplir las competencias de la asignatura.*
+If the problem is not solve, we will loose people in the team, which could affect our tasks distribution, the rest of the team would get to complete a lot more tasks, which could affect the quality of the artifacts.
+
+*The solution is essential to be able to complete our own instructions as they should be, take the process calm and controlled, deliver good artifacts at time and achieve the subject competences.*

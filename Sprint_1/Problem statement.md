@@ -8,10 +8,8 @@ As result, tasks were iniciated very late, just on thursday, and we couldn't wri
 
 -
 
-**El problema es que la mayor parte del equipo aun se encuentra incapacitado en distintas competencias como hacer redacciones cohesivas, aplicar formato markdown, navegar y manejar Github e incluirse en todos los puntos del proceso y la materia, aun se encuentran ajenados al proposito.**
+**The problem is that most of the team is still unable to practice the competences like cohesive redactions, markdown format applying, Controlling and diving in Github and inclusion in all the points of the process and the subject, they are still apart from the purpose.**
 
-**The problem is that most of the team is still unable to practice the competences like cohesive redactions, markdown format applying, Controlling and diving in Github and inclusion in all the points of the process and the subject, they are still apart from the purpose .**
-
-If the problem is not solve, the sprints won't be finished at they should be, arrears will be suffered and the work times will be increased without rest, which will produce bad artifacts.
+If the problem is not solve, the sprints won't be finished as they should be, arrears will be suffered and the work times will be increased without rest, which will produce bad artifacts.
 
 *The solution is essential to be able to complete our own instructions as they should be, take the process calm and controlled, deliver good artifacts at time and achieve the subject competences.*
