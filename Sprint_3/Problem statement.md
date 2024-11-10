@@ -8,7 +8,7 @@ So, we are more experienced, we are making only useful artifacts, and we are app
 
 As result, We couldn´t deliver the second delivery by the end of it (November 4th), there were still missing artifacts (Competences, Presentation and Repository documentation), This is how Sprint_3 ended:
 
-[!sprint_3](
+![sprint_3](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Materials/imagen_2024-11-10_104650859.png)
 
 **The problem is that most of the team is too lazy to be part of the project by themselves and by advice, they do not show interest if not told and hardly if done. Also, they still doesn´t understand the subject, so they can´t make correct artifacts.**
 
