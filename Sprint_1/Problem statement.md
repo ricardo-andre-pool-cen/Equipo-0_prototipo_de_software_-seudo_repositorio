@@ -1,4 +1,4 @@
-# THE END OF Sprint_1
+# THE END OF SPRINT_1
 
 *The team objective for the Sprint_1, which lasts 5 days, was to prepare the space to work on the biggest artifact of the second delivery, so we should completed all the nine tasks and show discipline.*
 
