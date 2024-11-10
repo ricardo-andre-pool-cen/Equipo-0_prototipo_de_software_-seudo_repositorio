@@ -6,7 +6,7 @@ However, comumnication between members is horrible, they do not look at messages
 
 As result, tasks were iniciated very late, just on thursday, and we couldn't writte everything in two days, this is how Sprint_1 ended:
 
-[!sprint_1](
+![sprint_1](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Materials/Captura%20de%20pantalla%202024-10-19%20083602.png)
 
 **The problem is that most of the team is still unable to practice the competences like cohesive redactions, markdown format applying, Controlling and diving in Github and inclusion in all the points of the process and the subject, they are still apart from the purpose.**
 
