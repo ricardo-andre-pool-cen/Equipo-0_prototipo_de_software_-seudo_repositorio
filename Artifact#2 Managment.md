@@ -15,10 +15,10 @@ Describir el nuevo proceso | 14 | 18 | 17 | 30 | 30
 Convertir los requisitos funcionales a historias de usuario | 15 | 18 | 18 | 30 | 30
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 22 | 60 | 60
 Boceto del video | 14 | 18 | 25 | 70 | 0
-Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | - | - | -
+Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | 04-11 | 80 | 70
 
->- **INDIVIDUAL CONTRIBUTION: (100)150 / 220 = 68%**
->- **TOTAL CONTRIBUTION: (100)150 / 220 = 68%**
+>- **INDIVIDUAL CONTRIBUTION: (100)230 / 300 = 76%**
+>- **TOTAL CONTRIBUTION: (100)230 / 350 = 65%**
 
 ## LUIS GILBERTO DZIB PECH
 
@@ -27,10 +27,10 @@ Task | Start | End | Actual end | Max value | Credited value
 Actualizacion de las ramas personales | 14 | 18 | 18 | 20 | 20
 Convertir los requisitos funcionales a historias de usuario | 15 | 18 | 18 | 40 | 10
 Boceto del video | 14 | 18 | 25 | 70 | 50
-Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | - | - | -
+Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | 04-11 | 80 | 0
 
->- **INDIVIDUAL CONTRIBUTION: (100)80 / 130 = 61%**
->- **TOTAL CONTRIBUTION: (100)80 / 130 = 61%**
+>- **INDIVIDUAL CONTRIBUTION: (100)80 / 210 = 38%**
+>- **TOTAL CONTRIBUTION: (100)80 / 350 = 22%**
 
 ## KATHERINE AOLANI ORDOÑEZ PACHECO
 
@@ -42,7 +42,7 @@ Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19
 Herramienta para el diseño del seudo-repositorio | 22 | 25 | 25 | 30 | 20
 
 >- **INDIVIDUAL CONTRIBUTION: (100)80 / 130 = 61%**
->- **TOTAL CONTRIBUTION: (100)80 / 130 = 61%**
+>- **TOTAL CONTRIBUTION: (100)80 / 350 = 22%**
 
 ## PERLA NOEMI CANCHE UICAB
 
@@ -53,7 +53,7 @@ Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19
 Herramienta para el diseño del seudo-repositorio | 22 | 25 | 25 | 30 | 20
 
 >- **INDIVIDUAL CONTRIBUTION: (100)70 / 90 = 77%**
->- **TOTAL CONTRIBUTION: (100)70 / 90 = 77%**
+>- **TOTAL CONTRIBUTION: (100)70 / 350 = 20%**
 
 ## JAIME ARMANDO OSORIO MUÑOZ
 
@@ -64,7 +64,7 @@ Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19
 Eliminar la priorización de requisitos | 22 | 25 | 25 | 30 | 0
 
 >- **INDIVIDUAL CONTRIBUTION: (100)50 / 90 = 55%**
->- **TOTAL CONTRIBUTION: (100)50 / 90 = 55%**
+>- **TOTAL CONTRIBUTION: (100)50 / 350 = 14%**
 
 ## CARLOS ALBERTO ESPADAS CANUL
 
@@ -74,5 +74,5 @@ Actualizacion de las ramas personales | 14 | 18 | 18 | 20 | 20
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 19 | 40 | 20
 Convertir los requisitos funcionales a historias de usuario | 15 | 18 | - | 40 | 0
 
->- **INDIVIDUAL CONTRIBUTION: (100)100 / 40 = 40%**
->- **TOTAL CONTRIBUTION: (100)100 / 40 = 40%**
+>- **INDIVIDUAL CONTRIBUTION: (100)40 / 100 = 40%**
+>- **TOTAL CONTRIBUTION: (100)40 / 350 = 11%**
