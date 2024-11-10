@@ -4,7 +4,7 @@
 
 El artefacto entregado presentó inconformidades de cohesion y similitud respecto al estandar de historias de usuario de SCRUM, este es el documento entregado.
 
-image
+![image](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Materials/Escáner_20241110.png)
 
 Despues de consultar con el respectivo equipo, se aclaró que la historia de usuario habla sobre la autenticacion de las sesiones dentro de la aplicacion UADY HUB mediante las respectivas cuentas institucionales de cada alumno, la historia de usuario reparada es de esta manera.
 
