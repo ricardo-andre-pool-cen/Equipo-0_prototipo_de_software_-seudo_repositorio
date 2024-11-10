@@ -1,39 +1,6 @@
-# INDICE/INDEX
+# THE TEAM#0 REPOSITORY
 
-## Leader: *Ricardo Andre Pool Cen*
+## Any way to want!
 
-### Members
-
-- *Luis Gilberto Dzib Pech*
-- *Katherine Aolani Ordoñez Pacheco*
-- *Perla Noemi Canche Uicab*
-- *Jaime Armando Osorio Muñoz*
-- *Carlos Alberto Espadas Canul*
-
-[Product: New process video](https://drive.google.com/file/d/1t291XsDDlfBaGnTudStA3_zivn4diAmd/view?usp=sharing)
-
-#### Block of links
-
-Product evolvement
-
-Requirements evolvement
-
-Artifacts refinement
-
-Design interfaces
-
-Design correspondence to requirements
-
-Design validation
-
-Process description
-
-Process managment
-
-Individual contribution metrics
-
-Presentation
-
-Generic competences
-
-Specific competences
+- [First deliver](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/tree/Primera_entrega)
+- [Second deliver](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/tree/Segunda_entrega)
