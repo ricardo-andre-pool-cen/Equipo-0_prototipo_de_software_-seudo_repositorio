@@ -32,7 +32,7 @@ Back then in the first delivery, we had our requirements written by the classic 
 
 After the reset of the idea, we needed to delete all our requirements, but we saw our mistakes in our old method to deliver requirements and we saw an opportunity to apply **SCRUM** artifact user stories better. We decided to only make the new requirements in user stories format, which mostly describes a functional requirement, however we limited our non-functional requirements into non-functional criterias of the user stories. We delimited the requirements we would work in the short time and in base of that we made the design. So now we only have one document to implement the requirements: "Artifact#3 User stories"; and we have a short amount of them, assurancing that we will work on all of those.
 
-## GITHUB PROJECT
+- ## GITHUB PROJECT
 
 In order to practice a better control of our tasks, it was decided to use the github project "issues" feature, where we created "issues" that represented the needs of the repository, these are tasks that can be asigned to the members so we get to divide the responsabilities among all the team. Inside the description of every task we used the **SCRUM** artifact "definition of done", that is a bunch of criterias that must be fulfilled to set the tasks as completed, so now we can tell where the document should be placed inside the repository or what especific information must have.
 
