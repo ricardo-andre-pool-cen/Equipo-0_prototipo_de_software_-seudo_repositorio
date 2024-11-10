@@ -6,7 +6,7 @@ However, comumnication between members is horrible, they do not look at messages
 
 As result, tasks were iniciated very late, just on thursday, and we couldn't writte everything in two days, this is how Sprint_1 ended:
 
--
+[!sprint_1](
 
 **The problem is that most of the team is still unable to practice the competences like cohesive redactions, markdown format applying, Controlling and diving in Github and inclusion in all the points of the process and the subject, they are still apart from the purpose.**
 

@@ -72,7 +72,7 @@ Unlike the other design tools we mentioned above, Figma is a free site with mult
 
 ## OUR PROTOTYPE
 
-*It was decided to use the marvel app design software for our prototype.*
+*It was decided to use the marvel app design software for our prototype, the purpose of this is to allow us to see how our product would look like without any coding.*
 
 ### [Playable prototype here](https://marvelapp.com/prototype/aa7i9i0)
 
@@ -95,4 +95,14 @@ Unlike the other design tools we mentioned above, Figma is a free site with mult
 
 ### CORRESPONDENCY TO REQUIREMENTS
 
-This design is supposed to implement the US#1 and de US#2
+*This design is supposed to implement the US#1 and the US#2.*
+
+This prototype shows an early image of our environment, the first page is the main body of it, it acts like a hub or lobby where it can be found information about the organization, the introduction and description, and a page to donations!.
+
+The environment doesn´t have support for too early contents, like definition of VCS and git, so just before the user enters into it's content, the system warns the user that these information are required and provides links to it from other creators.
+
+Once the user is inside the content, the environment changes, the basic information and pages at the upper part of the page disappears, in order to dedicate all the space to the git content, so the user focus only on what he came for.
+
+The information is divided in "articles", where each of them will have a correspondecy to the git and github roadmap (takes similar titles and same content), the user can see all the pages of the article in an horizontal list, and will be able to go to the next article without necessary passing a knowledge test about the past article.
+
+The page of "git init", which uses a standard that will be applied to all the other pages, doesn't have all text printed in the space, but it has playable buttons what would release audio and the readed text, so the user can focus better on what the lector is saying. All the information about "git init" is presented with subtitles in a table, where the user can know what is the content about through the playable audio just before enter it.

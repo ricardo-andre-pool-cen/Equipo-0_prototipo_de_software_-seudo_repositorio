@@ -17,6 +17,7 @@ Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19
 Boceto del video | 14 | 18 | 25 | 70 | 0
 Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | - | - | -
 
+>- **INDIVIDUAL CONTRIBUTION: (100)150 / 220 = 68%**
 >- **TOTAL CONTRIBUTION: (100)150 / 220 = 68%**
 
 ## LUIS GILBERTO DZIB PECH
@@ -28,6 +29,7 @@ Convertir los requisitos funcionales a historias de usuario | 15 | 18 | 18 | 40 
 Boceto del video | 14 | 18 | 25 | 70 | 50
 Redactar el primer diagnostico de aplicación de competencias de la unidad | 22 | 25 | - | - | -
 
+>- **INDIVIDUAL CONTRIBUTION: (100)80 / 130 = 61%**
 >- **TOTAL CONTRIBUTION: (100)80 / 130 = 61%**
 
 ## KATHERINE AOLANI ORDOÑEZ PACHECO
@@ -39,6 +41,7 @@ Convertir los requisitos funcionales a historias de usuario | 15 | 18 | - | 40 |
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 19 | 40 | 40
 Herramienta para el diseño del seudo-repositorio | 22 | 25 | 25 | 30 | 20
 
+>- **INDIVIDUAL CONTRIBUTION: (100)80 / 130 = 61%**
 >- **TOTAL CONTRIBUTION: (100)80 / 130 = 61%**
 
 ## PERLA NOEMI CANCHE UICAB
@@ -49,6 +52,7 @@ Actualizacion de las ramas personales | 14 | 18 | 18 | 20 | 20
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 19 | 40 | 30
 Herramienta para el diseño del seudo-repositorio | 22 | 25 | 25 | 30 | 20
 
+>- **INDIVIDUAL CONTRIBUTION: (100)70 / 90 = 77%**
 >- **TOTAL CONTRIBUTION: (100)70 / 90 = 77%**
 
 ## JAIME ARMANDO OSORIO MUÑOZ
@@ -59,6 +63,7 @@ Actualizacion de las ramas personales | 14 | 18 | 18 | 20 | 20
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 19 | 40 | 30
 Eliminar la priorización de requisitos | 22 | 25 | 25 | 30 | 0
 
+>- **INDIVIDUAL CONTRIBUTION: (100)50 / 90 = 55%**
 >- **TOTAL CONTRIBUTION: (100)50 / 90 = 55%**
 
 ## CARLOS ALBERTO ESPADAS CANUL
@@ -69,4 +74,5 @@ Actualizacion de las ramas personales | 14 | 18 | 18 | 20 | 20
 Investigación de nuevos conceptos: artefactos para la segunda entrega | 18 | 19 | 19 | 40 | 20
 Convertir los requisitos funcionales a historias de usuario | 15 | 18 | - | 40 | 0
 
+>- **INDIVIDUAL CONTRIBUTION: (100)100 / 40 = 40%**
 >- **TOTAL CONTRIBUTION: (100)100 / 40 = 40%**

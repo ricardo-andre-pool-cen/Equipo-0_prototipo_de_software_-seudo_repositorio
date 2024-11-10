@@ -30,6 +30,27 @@ In this section, the evolution of the requirements and the refinement of the art
 
 Note: phase 2 and phase 3 will have a maximum delivery time of 4 minutes (since the first phase covers almost 1 minute).
 
-## Rhythm
+### Rhythm
 
 This script will be adapted to a maximum time of 5 minutes and in the English language for the opportunity of extra points, where visual support means will be used, such as balanced slides, uniform audio, with a balanced rhythm, where there are small pauses when speaking, thus being a flow that allows to clearly understand the development of the project.
+
+## REFINATION OF SCRIPT
+
+*Introduction.*
+ds
+
+*First phase: the product.*
+
+*Second phase: the design.*
+Once with a new idea, we remade all our work: description, objective, users and requirements, we took advantage in this last point because we didn´t writte the new requirements with the traditional method but directly into user stories, these artifact describes what our users expect to see and what they want from our product.
+
+We selected just a couple for this deliver and with that in mind, we builded the first prototype, in this environment, we have a main page that works as a lobby, it has an introduction and the path to the content, due of our product doesn´t cover basic information about the context, the user is advertised that is needed and the system provides links to other creators content before entering it.
+
+Once in the main articles the information can be found mainly in playable audios, almost nothing in text, so the user can focus in the content he choose, back in the lobby, the user can search any content he wants with a basic search bar that will take him directly into what he describes, no matter the location inside our environment.
+
+*Third phase: the process.*
+For this second delivery, we needed to reform our process with a professional methodology, this time we applied the agile one SCRUM. The way we did, we plan to work dividing the project in four sprints, where we deposit our daily logs of work, and it was made a problem statement for each sprint so we could see why our difficulties were there, their descrption and their forecast, these were our sprint reviews.
+
+We now used the github project issues feature to implement the needs of our proyect, and create tasks that we could asign to ourselves, inside every task it was written a "definition of done": a bunch of criterias that must be followed to define if any deliver really completes the task. With this tools we could now reform our individual contribution metric, now by each member, we used the difference between our asigned tasks and the criterias we completed to evaluate if we did an excelent work.
+
+other important things that we changed from the first deliver are: documentation only in english, a real index inside the README.md file and 0 canva virtual boards.

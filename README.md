@@ -5,14 +5,12 @@
 ### Members
 
 - *Luis Gilberto Dzib Pech*
+- *Jaime Armando Osorio Muñoz*
 - *Katherine Aolani Ordoñez Pacheco*
 - *Perla Noemi Canche Uicab*
-- *Jaime Armando Osorio Muñoz*
 - *Carlos Alberto Espadas Canul*
 
-[Product: New process video](https://drive.google.com/file/d/1t291XsDDlfBaGnTudStA3_zivn4diAmd/view?usp=sharing)
-
-#### Block of links
+### BLOCK OF LINKS
 
 Product evolvement
 
@@ -37,3 +35,17 @@ Presentation
 Generic competences
 
 Specific competences
+
+### EXTRAS
+
+Sprint_1 Problem statement
+
+Sprint_2 Problem statement
+
+Sprint_3 Problem statement
+
+Scrum artifacts investigation
+
+[Product: New process video](https://drive.google.com/file/d/1t291XsDDlfBaGnTudStA3_zivn4diAmd/view?usp=sharing)
+
+Performance tests (PD)
