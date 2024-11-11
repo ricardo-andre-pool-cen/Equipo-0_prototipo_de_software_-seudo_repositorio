@@ -6,7 +6,7 @@ That means, no real contribution was made during this sprint, and even of the li
 
 As result, no progress was made during this sprint since Sprint_1 was finished during this time, this is how Sprint_2 ended:
 
-[!sprint_2](
+![sprint_2](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Materials/Captura%20de%20pantalla%202024-10-28%20113147.png)
 
 **The problem is that most of the team is too lazy to be part of the project by themselves, clearly there is a need of a lot of direct communication, which neither has been practiced.**
 
