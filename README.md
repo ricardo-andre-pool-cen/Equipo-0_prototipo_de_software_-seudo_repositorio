@@ -54,7 +54,7 @@
 
 #### Presentation
 
-[Video here!](https://drive.google.com/file/d/1rRbNtwSkPpKzGlTxD_1TCSADvWRmlcLq/view?usp=drive_link)
+- [Video here!](https://drive.google.com/file/d/1rRbNtwSkPpKzGlTxD_1TCSADvWRmlcLq/view?usp=drive_link)
 
 #### Generic competences
 
