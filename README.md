@@ -54,6 +54,8 @@
 
 #### Presentation
 
+[Video here!](https://drive.google.com/file/d/1rRbNtwSkPpKzGlTxD_1TCSADvWRmlcLq/view?usp=drive_link)
+
 #### Generic competences
 
 - [By doing this we applied the generic competences from both units](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Artifact%236%20Competences.md#by-doing-this-we-applied-the-generic-competences-from-both-units)
