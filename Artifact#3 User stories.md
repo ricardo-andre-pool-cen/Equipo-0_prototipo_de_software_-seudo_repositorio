@@ -2,7 +2,7 @@
 
 - ## USER STORIE_01
 
->*As a beginner user learning git, i want a tool to find the content quickly so i don´t waste time >navegating due to disorganization.*
+>*As a beginner user learning git, i want a tool to find the content quickly so i don´t waste time navegating due to disorganization.*
 >
 >**Acceptance criteria:**
 >
