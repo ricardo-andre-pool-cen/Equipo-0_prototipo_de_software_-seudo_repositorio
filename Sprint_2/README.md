@@ -1,21 +1,37 @@
-# From october 19 to 25
-
-## Day 19
-
-## Day 20
-
-## Day 21
-
-- [Ricardo Andre Pool Cen's report](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Ricardo-Andre-Pool-Cen/ESPANOL/Periodo_1/Day%2014.md)
+# From october 22 to 30
 
 ## Day 22
 
+- [Ricardo Andre Pool Cen's report](report)
+
 ## Day 23
 
-- [Ricardo Andre Pool Cen's report](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Ricardo-Andre-Pool-Cen/ESPANOL/Periodo_1/Day%2014.md)
+- [Ricardo Andre Pool Cen's report](report)
 
 ## Day 24
 
-- [Ricardo Andre Pool Cen's report](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Ricardo-Andre-Pool-Cen/ESPANOL/Periodo_1/Day%2014.md)
+- [Ricardo Andre Pool Cen's report](report)
 
 ## Day 25
+
+- [Ricardo Andre Pool Cen's report](report)
+
+## Day 26
+
+- [Ricardo Andre Pool Cen's report](report)
+
+## Day 27
+
+- [Ricardo Andre Pool Cen's report](report)
+
+## Day 28
+
+- [Ricardo Andre Pool Cen's report](report)
+
+## Day 29
+
+- [Ricardo Andre Pool Cen's report](report)
+
+## Day 30
+
+- [Ricardo Andre Pool Cen's report](report)
