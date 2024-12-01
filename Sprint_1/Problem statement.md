@@ -1,15 +1,11 @@
 # THE END OF SPRINT_1
 
-*The team objective for the Sprint_1, which lasts 5 days, was to prepare the space to work on the biggest artifact of the second delivery, so we should completed all the nine tasks and show discipline.*
+*The objective of the sprint 1 was to apply a reform to the user stories, in order to make correct use cases that could explain the happy path to follow in the prototype, and then, define the metrics we would evaluate. Just done that, all the design was also supposed to be finished.*
 
-However, comumnication between members is horrible, they do not look at messages, so they do not follow instructions. Neither direct talk has been practiced as needed.
+All requirements were finished, but the design didn't, because we got to make some little changes after the end of sprint 1.
 
-As result, tasks were iniciated very late, just on thursday, and we couldn't writte everything in two days, this is how Sprint_1 ended:
+**We couldn't complete succesfully the sprint_1 due to the late review of the environment, the changes are going to be applied during Sprint_2, when more tasks arrive.**
 
-![sprint_1](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Segunda_entrega/Materials/Captura%20de%20pantalla%202024-10-19%20083602.png)
+If we don't present artifacts fast enough to get a review and apply changes in the rest of the time, we won't make good artifacts by the time and we will deliver the first version of everything .
 
-**The problem is that most of the team is still unable to practice the competences like cohesive redactions, markdown format applying, Controlling and diving in Github and inclusion in all the points of the process and the subject, they are still apart from the purpose.**
-
-If the problem is not solve, the sprints won't be finished as they should be, arrears will be suffered and the work times will be increased without rest, which will produce bad artifacts.
-
-*The solution is essential to be able to complete our own instructions as they should be, take the process calm and controlled, deliver good artifacts at time and achieve the subject competences.*
+*The solution is important to apply the corrections to the artifacts during the asigned time, so we can deliver a great work.*

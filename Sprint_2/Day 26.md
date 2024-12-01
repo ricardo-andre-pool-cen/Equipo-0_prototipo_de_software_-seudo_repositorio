@@ -2,17 +2,18 @@
 
 **I worked on this:**
 
-- Use cases 01 y 03
+- Usability test: script
+- Usability test: format using "Ballpark" tool
 
 ---
 **I'm working on this:**
 
-Usability attributes
+- Design: subtitles content
 
 ---
 **I'll work on this:**
 
-- Design improvement.
+- Usability test: tests
 
 ---
 **I couldn't work on this:**

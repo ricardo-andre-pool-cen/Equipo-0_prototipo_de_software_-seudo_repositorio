@@ -2,17 +2,14 @@
 
 **I worked on this:**
 
-- Use cases 01 y 03
+- User stories refinement: compressed to only 3.
 
----
 **I'm working on this:**
 
-Usability attributes
+- Use cases.
 
----
 **I'll work on this:**
 
-- Design improvement.
+- Usability metrics from user stories.
 
----
 **I couldn't work on this:**

@@ -2,8 +2,8 @@
 
 **I worked on this:**
 
-- Design: new tool to find articles, redesign of home page.
-- Design: redesign of the environment
+- Design: "git init" article first knowledge test
+- Usability attributes: reduced to only 2
 
 ---
 **I'm working on this:**
@@ -15,6 +15,8 @@
 **I'll work on this:**
 
 - Design: "git config" article second knowledge test
+- Design: new tool to find articles, redesign of home page.
+- Design: redesign of the environment
 
 ---
 **I couldn't work on this:**

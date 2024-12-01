@@ -2,17 +2,17 @@
 
 **I worked on this:**
 
-- Use cases 01 y 03
+- Design: environment subtitles expantion.
 
 ---
 **I'm working on this:**
 
-Usability attributes
+- Design: "git config" article
 
 ---
 **I'll work on this:**
 
-- Design improvement.
+- Design: environment knowledge tests.
 
 ---
 **I couldn't work on this:**

@@ -1,108 +1,25 @@
-# Design
+# DESIGN EVOLVEMENT
 
-> It's the process of the system arquitecture, structure and behavior defining, in order to create a product not only atractive but efective in user needs and objectives satisfaction.
-> UI Design: It's the view that allows a user to interact with the system, interface used by the user to get a result.
+*We can divide our design evolvement in two phases, and the division comes from a review received after presenting the interfaces to the classroom, so there's design before and after the review.*
 
-## Design tools
+Our first step to start the first deliver was to reform the user stories in order to match our plans for the interfaces, the prototype was small and we wanted to make it bigger by implementing the requirements of pre-made user stories, along with real use cases that could define our happy paths to follow in the prototype, and then having a correspondence from use case to interface.
 
-There are multiple design tools to make the UI design, among them is "FIGMA"
+By the time of the review, the first design we were making really wasn't finished and a lot of non interactive elements were visible, some of them were consider to be tested and others were just decoration.
 
-* Axure RP
-* Maquetas de Balsamiq
-* Adobe XD
-* Sketch
-* Figma
+Other problems came with the icons we had, they weren't intuitive for some people and had ambiguity, and the organization of the information wasn't clear also.
 
-### Figma
+For this prototype, it wasn't evident for the classroom what type of information the environment would have since it's wasn't supposed to be there (later we would find out it would have been all the purpose of the test), they just got to see the representation of the playable audios and they focused on that content as it would be the only one.
 
-* **Interface**
+There were also details about the color code, for most people the contrast was too high and they felt it didn't match with the pages.
 
-Figma is a free online UI design tool for creating, collaborating, prototyping, and delivering. Easily share the current status of designs to open collaboration, make revisions, and receive feedback or approval. No matter your level of experience, creating in Figma is easy thanks to its easy-to-use interface.
+*So, we did some changes considering those points, but we couldn't change much due to the time:*
 
-* **Effectiveness**
+## [PROTOTYPE FINAL VERSION: CLICK HERE](https://marvelapp.com/prototype/aa7i9i0)
 
-Figma offers a big variety of resources, templates and easy access, which an inexperienced person could use with a few simple tutorials, and then create a striking design prototype quickly.
+>- Color contrast changed.
+>- Added a new tool to access the articles: the diagram, we already had a search bar but the people didn't notice it
+>- Removed non functional elements
+>- Removed upper content in the main page: dedicated only to the search bar and the rest of the important things but non functional were just taked to the lower part
+>- Added the real representation of the subtitles (small containers) informations, only icons, still no real information in there
 
-* **Productivity improvements**
-  
-Real-time collaboration features and streamlined design reviews allow for shorter review cycles and faster completion of projects.
-
-* **Integration with other tools**
-
-Figma integrates without problems with other tools like Slack, JIRA, and GitHub, allowing you to incorporate design into your software development workflow and facilitate communication between designers and developers.
-
-* **Accesibility**
-
-Unlike the other design tools we mentioned above, Figma is a free site with multiple features, and while it has an option to upgrade the experience and tools for a monthly fee, its free option is good enough to make some good design prototypes , which compared to the others that from the beginning require a payment to access all their services, limiting the audience it can reach.
-
-### Marvel app
-
-> It is a collaborative digital design tool. The designs are made interactively, without the use of code. You can test your designs and prototypes.
-
-#### Features
-
-* **Interface**
-
-  * Comments and annotations: Collaborators can leave comments directly on the prototype, which improves communication.
-  * Side Navigation Panel: Includes quick access to projects, account settings and configurations, making work management easier.
-  * Drag and Drop Features: The interface allows you to drag elements and components directly to the work area, simplifying design.
-  * Style Customization: Allows you to adjust colors, fonts and styles.
-  * Gesture Integration: Allows you to simulate touch interactions, such as swipes or taps, which is useful for mobile application prototypes.
-
-* **Effectiveness**
-
-  * Access to Resources: Integrations with other tools and platforms that allow you to import and manage resources easily.
-  * Documentation and Support: Access to tutorials, guides and technical support that help users solve problems and optimize the use of the tool.
-  * Real-Time Notifications: Send alerts to users about changes, comments or updates to projects, keeping everyone informed.
-
-* **Resources**
-
-  * Predefined Templates: Offers design templates that users can customize.
-  * Permissions: Provides information about the licenses of the available resources.
-  * Audio and Video Resources: Supports the inclusion of multimedia elements such as audio and video.
-  * Review: Tools that allow team members to review and approve resources before their use in final projects.
-
-* **Functions for the team**
-
-  * Creation of the new project.
-  * Design templates.
-  * Function with "Prototypes" is to add interactivity.
-  * Comments and Feedback.
-  * Use the "Share" function to send the prototype to others, allowing for testing.
-
-## OUR PROTOTYPE
-
-*It was decided to use the marvel app design software for our prototype, the purpose of this is to allow us to see how our product would look like without any coding.*
-
-### [Playable prototype here](https://marvelapp.com/prototype/aa7i9i0)
-
-### STEPS TO FOLLOW THE PROTOYPE
-
-* Click to the button called "Get started"
-* Click to the button called "I already know that"
-* Click to any blue button of the playable audios
-* Click to the exit button of the playable audio screen
-* Click to the exit orange icon at the lower left corner
-* Click to the button called "Cancel it"
-* Click to the exit orange icon at the lower left corner
-* Click to the button called "Of course"
-* Click to the search button at the upper right corner
-* Click to the search button at the upper right corner
-* Click to the exit orange icon at the lower left corner
-* Click to the button called "Of course"
-* Click to the button called "Get started"
-* Click to the button called "Go back"
-
-### CORRESPONDENCY TO REQUIREMENTS
-
-*This design is supposed to implement the US#1 and the US#2.*
-
-This prototype shows an early image of our environment, the first page is the main body of it, it acts like a hub or lobby where it can be found information about the organization, the introduction and description, and a page to donations!.
-
-The environment doesn´t have support for too early contents, like definition of VCS and git, so just before the user enters into it's content, the system warns the user that these information are required and provides links to it from other creators.
-
-Once the user is inside the content, the environment changes, the basic information and pages at the upper part of the page disappears, in order to dedicate all the space to the git content, so the user focus only on what he came for.
-
-The information is divided in "articles", where each of them will have a correspondecy to the git and github roadmap (takes similar titles and same content), the user can see all the pages of the article in an horizontal list, and will be able to go to the next article without necessary passing a knowledge test about the past article.
-
-The page of "git init", which uses a standard that will be applied to all the other pages, doesn't have all text printed in the space, but it has playable buttons what would release audio and the readed text, so the user can focus better on what the lector is saying. All the information about "git init" is presented with subtitles in a table, where the user can know what is the content about through the playable audio just before enter it.
+With this new prototype we made the usability test. Later we found out we carried our mistakes to the test, but there wasn't really a chance to make all the changes we needed for the perfect prototype, the results told us to make another one with less steps and pages but real information, we really didn't get time to even study "git init" and transform the information into the brand new formats.

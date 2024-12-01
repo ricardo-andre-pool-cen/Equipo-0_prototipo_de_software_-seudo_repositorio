@@ -2,17 +2,15 @@
 
 **I worked on this:**
 
-- Use cases 01 y 03
+- Design: "git config" article
 
 ---
 **I'm working on this:**
 
-Usability attributes
+- Design: environment knowledge tests.
 
 ---
 **I'll work on this:**
-
-- Design improvement.
 
 ---
 **I couldn't work on this:**
