@@ -1,6 +1,10 @@
-# INDEX
+88# INDEX
 
 ## Leader: *Ricardo Andre Pool Cen*
+
+
+https://github.com/user-attachments/assets/c933ad8a-6f7d-4f52-89e1-f8cd2ad72d1b
+
 
 ### Members
 
