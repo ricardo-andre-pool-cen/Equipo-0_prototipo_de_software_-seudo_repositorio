@@ -2,6 +2,8 @@
 
 **I worked on this:**
 
+- Design: subtitles content
+
 ---
 **I'm working on this:**
 

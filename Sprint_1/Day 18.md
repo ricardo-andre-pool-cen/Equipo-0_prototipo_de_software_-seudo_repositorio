@@ -12,7 +12,7 @@ Usability attributes
 ---
 **I'll work on this:**
 
-- Design
+- Design improvement.
 
 ---
 **I couldn't work on this:**

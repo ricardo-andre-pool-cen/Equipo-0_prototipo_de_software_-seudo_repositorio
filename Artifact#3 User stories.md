@@ -8,6 +8,7 @@
 >
 >- There are graphs and images as visual help.
 >- The information is presented as audio playables.
+>- Formats (graphs, diagrams) that describe a process are animated
 >- There is not other information or advertisings that could distract me while learning.
 
 - ## USER STORIE_02
@@ -16,9 +17,13 @@
 >
 >**Acceptance criteria:**
 >
+>- The information is divided, from big containers to smaller:
+>Big container contains:
+> Description, Medium container contains:
+> Little amount of information, Smaller container contains:
+> Big amount of information.
 >- There is a tool that could take me to direct content (ex. search bar), it's not hard to find and use.
->- Inside the article: The information is divided in subtitles.
->- Inside the article: The information is presented inside dropdown menus, with icons and names.
+>- Inside the medium and small content: The information is presented inside dropdown menus, with icons and names.
 
 - ## USER STORIE_03
 
@@ -26,10 +31,9 @@
 >
 >**Acceptance criteria:**
 >
->- It can be found at the end of every article.
->- It can change at the different times the user enters it.
+>- There is a can be found at the end of every article.
+>- The user can change the test format once he finishes one.
 >- The user can finish the test anytime he wants, with any amount of responses.
->- It doesn't allow the user to enter the content again until the test is finished.
 
 ## USE CASES
 
