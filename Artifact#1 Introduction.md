@@ -33,7 +33,7 @@ This is meant to help people to comprehend git and to improve their tech-skills 
 
 #### PRIMARIES: *Students beginning learning git*
 
-![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials/Captura%20de%20pantalla%202024-09-30%20171238.png)
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Materials/user_primarie.png)
 
 - Name: Mauro.
 - Gender: Man.
@@ -46,7 +46,7 @@ This is meant to help people to comprehend git and to improve their tech-skills 
 
 #### SECONDARIES: *Medium experienced people that want to learn even more about git*
 
-![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials/Captura%20de%20pantalla%202024-09-30%20171238.png)
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Materials/user_secondarie.png)
 
 - Name: María.
 - Gender: Woman.
@@ -59,7 +59,7 @@ This is meant to help people to comprehend git and to improve their tech-skills 
 
 #### POTENTIALS: *Experienced people that want to teach git*
 
-![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio./blob/Ricardo-Andre-Pool-Cen/Materials/Captura%20de%20pantalla%202024-09-30%20171238.png)
+![usuario secundario](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Materials/user_potential.png)
 
 - Name: Daniel.
 - Gender: Man.
