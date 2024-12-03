@@ -1,5 +1,7 @@
 # INDEX
 
+![titulo](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Materials/Captura%20de%20pantalla%202024-12-02%20233520.png)
+
 ## Leader: *Ricardo Andre Pool Cen*
 
 ### Members
