@@ -32,7 +32,7 @@
 
 - #### [Design evolvement](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%233%20User%20stories.md#use-cases)
 
-- ##### Usability test
+- #### Usability test
 
   - [Attributes](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%235%20Usability%20test.md#usability-attributes)
   - [Script](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%235%20Usability%20test.md#script)

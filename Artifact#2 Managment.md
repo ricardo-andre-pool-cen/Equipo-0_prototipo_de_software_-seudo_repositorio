@@ -14,7 +14,7 @@
   - Video record = 10
   - Video edition = 10
 
-**Total proyect value: 70.**
+**Total project value: 70.**
 
 ## RICARDO ANDRE POOL CEN
 
