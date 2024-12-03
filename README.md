@@ -50,7 +50,7 @@
   - [Generic](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%237%20Competences.md#we-must-have-learned-this-generic-competences)
   - [Specific](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%237%20Competences.md#we-must-have-learned-this-specific-competence)
 
-- #### FINAL CRITIC
+- #### [FINAL CRITIC](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%238%20Critic.md#constructive-critic-about-software-engineering-fundamentals-subject)
 
 - #### EXTRAS
 
