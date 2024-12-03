@@ -14,36 +14,44 @@
 
 ### BLOCK OF LINKS
 
-#### Product evolvement
+- #### [Final process](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%231%20Introduction.md#new-process-last-reform-to-ensure-efficiency)
 
-- Innovation
+- #### [Product evolvement](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%231%20Introduction.md#product-description)
 
-#### Users
+- #### [Users](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%231%20Introduction.md#users)
 
-#### Final process
+- #### Process managment
 
-#### Process managment: Problem statements
+  - [Problem statement 1](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Sprint_1/Problem%20statement.md#the-end-of-sprint_1)
+  - [Problem statement 2](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Sprint_2/Problem%20statement.md#the-end-of-sprint_2)
 
-#### Final requirements
+- #### Final requirements
 
-- User stories
-- Use cases
+  - [User stories](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%233%20User%20stories.md#new-requirements)
+  - [Use cases](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%233%20User%20stories.md#use-cases)
 
-#### Design evolvement
+- #### [Design evolvement](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%233%20User%20stories.md#use-cases)
 
-- Correspondence to requirements
+- ##### Usability test
 
-##### Usability test
+  - [Attributes](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%235%20Usability%20test.md#usability-attributes)
+  - [Script](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%235%20Usability%20test.md#script)
+  - [Results report](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%235%20Usability%20test.md#results)
 
-- Results report
+- #### [Individual contribution metric](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%232%20Managment.md#individual-contribution-metric)
 
-#### Individual contribution metric
+- #### Presentation
 
-#### [Presentation video, click here!](https://drive.google.com/file/d/1_49aOWHj8aAKOqYCCBiB47pt2OsWjsjJ/view?usp=sharing)
+  - [Video right here!](https://drive.google.com/file/d/1_49aOWHj8aAKOqYCCBiB47pt2OsWjsjJ/view?usp=sharing)
+  - [Script](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%236%20Presentation.md#video-draft)
 
-#### Competences
+- #### Competences: from unit V
 
-- Generic
-- Specific
+  - [Generic](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%237%20Competences.md#we-must-have-learned-this-generic-competences)
+  - [Specific](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/Tercera_entrega/Artifact%237%20Competences.md#we-must-have-learned-this-specific-competence)
 
-#### FINAL CRITIC
+- #### FINAL CRITIC
+
+- #### EXTRAS
+
+  - Performance test 3 (PD3)
