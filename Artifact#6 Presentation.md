@@ -13,7 +13,7 @@ The video for the third deliver will explain all our journey along Software Engi
 
 ---
 
->**Face - Pool**: So powerful tool that is git, am i right? however learning how to use it is difficult for most beginning people, this isn't because there is no information about it, but most of those are huge complex blocks of text, or doesn't introduce the viewer to all posible information, so a person could not understand what git can do, they don't finish comprehending the power of this tool.
+>**Face - Pool**: So powerful tool that is git, am i right? however learning how to use it is difficult for most beginning people, this isn't because there is no information about it, but most of those are huge complex blocks of text, or doesn't introduce the user to all posible information, so a person could not understand what git can do, they don't finish comprehending the power of this tool.
 
 ---
 
@@ -47,7 +47,9 @@ The video for the third deliver will explain all our journey along Software Engi
 
 ---
 
->**Mixed - Jaime**: we made the usability test of this prototype with five people. our users tested mainly the navigability of the prototype and the results are the next ones:
+>**Mixed - Pool**: we made the usability test of this prototype with five people. our users tested mainly the navigability of the prototype and the results are the next ones:
+
+At the beginning, they took a while to learn how the prototype was builded, that's why a freeroam task was asigned, in order for the users to explore the environment during five minutes. and then, with enough elements located, they were asigned to simulate the deliver of the articles knowledge tests, altought some of the people didn't finish understanding the purpose of the prototype and didn't complete all the tasks, the main problem we had is that they were told the product goal was to provide information in different style formats about git, so the users were already expecting to see real information in the prototype, but they didn't find anything due of the objective of the prototype specifically, but they didn't know that, so they just received a disappointment, we have made our notes and we are expecting to apply the changes later on some day.
 
 ## SECOND PART (5:00 MIN): OUR TEAM
 
@@ -65,7 +67,7 @@ The video for the third deliver will explain all our journey along Software Engi
   - pool
   - luis
 
->**Mixed - Pool**: We just got to know that this software tools exist and we were set to use them in a process, our process, and we always made what we considered right for the team capacity, so the process was also changed three times, a powerful tool as git is only useful is the team finds it like that.
+>**Mixed - Pool**: We just got to know that this software tools exist and we were set to use them in a process, our process, and we always made what we considered right for the team capacity, so the process was also changed three times, a powerful tool as git is only useful if the team finds it like that.
 
 ---
 
