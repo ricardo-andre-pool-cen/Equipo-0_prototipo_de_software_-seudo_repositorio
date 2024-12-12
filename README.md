@@ -54,4 +54,4 @@
 
 - #### EXTRAS
 
-  - Performance test 3 (PD3)
+  - [Performance test 3 (PD3)](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/tree/ADA-03)
