@@ -54,6 +54,4 @@
 
 - #### ADA-03
 
-  - [Link to ada 03](# THE TEAM#0 REPOSITORY
-Entrega del ADA 03, "Propuesta de Solución para la ingresión de Datos del CURP en la página web".
-[Solución.docx](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/040789352a61714512ce5a2536b98fb5ad0be282/Ada-03.md)
+  - [Link to ada 03](https://github.com/ricardo-andre-pool-cen/Equipo-0_prototipo_de_software_-seudo_repositorio/blob/bb70b2836181ff84f8c7c04b5de32a8b7ba0a5fa/Ada-03.md)
